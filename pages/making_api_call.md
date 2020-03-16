@@ -62,7 +62,7 @@ NOTE: _To read the results more clearly you can paste your response into an onli
 
 3. Click **Post**, then click **Try it out**.
 
-    ![image-title-here](https://lh5.googleusercontent.com/zCyFZ0fbmMQI7cA2xcXRAY-IzxP8BX4YXo9GtktNVzdKMnsBPaTAPObMBblVxxC15GTwzOuV3Z_oKun9GYzKHKo8Yc7RWJyFlF1PsGGf){:class="img-responsive"}
+    ![image-title-here](https://lh6.googleusercontent.com/CUggMD4PB4eDdUpu6wbugs2Ijt6mP3XV97n8BFIqhZ-cqJYnLizDoBt0yBSODafR93kljyJsikYmlAGIHl4Wlj5WGX9ve8AZWiTGJxBz-37X6ICT0TcLgJxuCyGw1g){:class="img-responsive"}
 4. In the **Edit Value | Model** box, replace “string” with your values and text sample.
 ```
 {
@@ -91,7 +91,7 @@ The only mandatory fields are `language`, `content_date`, and `language_content`
 3. From the **Content Source** drop-down menu, select the applicable source of your text sample.
 4. Click **Analyze**.
 
-    ![image-title-here](https://lh5.googleusercontent.com/tYfMW7W5EYHFP2xFD6Wprvi2gGvocggBbx7ppqsbKyNocWr_MJLGWiuP8dOrZZ9qdEZg8UpnVqF3g_vP1laONUJuXnxwa4VrCPPhLxrK){:class="img-responsive"}
+    ![image-title-here](https://lh6.googleusercontent.com/9WUwFSH9U-WTUPyGsvGy1DfJttPDNZ4Qw8hZoQ1ILhOBP25UljGJZpknFiwzyfT60KeG9ETuKZwOHIfnKsAxOBwIZElfaGpFhgrd3rxS){:class="img-responsive"}
 
 
 NOTE:_This page is intended for ad-hoc analysis. Any data entered and results generated on this page are not stored, and are not retrievable once you leave this page._

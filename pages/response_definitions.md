@@ -6,7 +6,7 @@ nav_order: 10
 
 # Response Definitions
 
-The Receptiviti API returns a mix of several types of metrics, covered in more detail in the Interpreting Receptiviti API Responses section. The table below defines the metrics that make up LIWC and Receptiviti scores.
+The Receptiviti API returns a mix of several types of metrics, covered in more detail in the [Interpreting Receptiviti API Responses](interpreting_api_responses) section. The table below defines the metrics that make up LIWC and Receptiviti scores.
 
 | Field       | Description        |
 |:-------------|:------------------|
