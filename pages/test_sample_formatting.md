@@ -37,7 +37,7 @@ The Receptiviti API accommodates both United States and British English spelling
 
 One of the scores returned from the Receptiviti API is the The Words Per Sentence (WPS) category. It counts the number of times that it detects end-of-sentence markers. These include punctuation such as periods, question marks, and exclamation points. However, common abbreviations (such as Dr., Mrs., U.S.A., D.O.A.) will be counted as multiple sentences unless you remove the periods.
 
-NOTE:_Be careful that the removal of the periods doesn’t inadvertently create a new word. For example, U.S. (the United States) becomes US (first-person plural pronoun) when the periods are removed. In this case, change it to USA_.
+NOTE: _Be careful that the removal of the periods doesn’t inadvertently create a new word. For example, U.S. (the United States) becomes US (first-person plural pronoun) when the periods are removed. In this case, change it to USA_.
 {: .label .label-yellow }
 
 
