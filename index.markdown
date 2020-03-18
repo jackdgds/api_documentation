@@ -13,8 +13,7 @@ Welcome to the Receptiviti API Documentation
 This site will walk you through the steps required to use our API whether you're totally new to APIs or you're an API expert.
 {: .fs-6 .fw-300 }
 
-Get started now
-(https://crispy-silence.cloudvent.net/pages/getting_started.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started now](https://crispy-silence.cloudvent.net/pages/getting_started.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
