@@ -1,7 +1,7 @@
 ---
 layout: "page"
-title: API Rate Limiting 
-nav_order: 8
+title: API Rate Limiting
+nav_order: 7
 ---
 
 # API Rate Limiting

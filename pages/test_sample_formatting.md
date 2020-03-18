@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Text Sample Formatting
-nav_order: 10
+nav_order: 11
 ---
 
 # Text Sample Formatting

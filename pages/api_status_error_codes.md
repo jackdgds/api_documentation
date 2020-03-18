@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: API Status and Error Codes
-nav_order: 7
+nav_order: 6
 ---
 
 # API Status and Error Codes
@@ -30,5 +30,5 @@ status: 200
 vary: Origin, Cookie
 x-ratelimit-limit: 150000000
 x-ratelimit-remaining: 149999997
-x-ratelimit-reset: 1586621931 
+x-ratelimit-reset: 1586621931
 ```

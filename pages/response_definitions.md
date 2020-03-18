@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Response Definitions
-nav_order: 10
+nav_order: 9
 ---
 
 # Response Definitions
