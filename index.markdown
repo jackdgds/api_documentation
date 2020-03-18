@@ -10,7 +10,7 @@ permalink: /
 Welcome to the Receptiviti API Documentation
 {: .fs-9 }
 ---
-This site will walk you through the steps required to use our API whether you're totally new to APIs or if you're an API expert.
+This site will walk you through the steps required to use our API whether you're totally new to APIs or you're an API expert.
 {: .fs-6 .fw-300 }
 
 Get started now
@@ -26,7 +26,7 @@ By engaging with the Receptiviti API, you can gain immensely valuable insight in
 
 Based on REST principles, the Receptiviti API endpoints return JSON-formatted data analyzed from language samples.
 
-Navigate the documentation through the linked pages to the left of the page. 
+Navigate the documentation through the linked pages to the left of the page.
 
 NOTE: _By using the Receptiviti API, you agree to the Terms and Conditions_.
 {: .label .label-yellow }
