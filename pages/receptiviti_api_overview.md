@@ -3,6 +3,7 @@ layout: "page"
 title: Receptiviti API Overview
 nav_order: 2
 parent: Introduction to APIs
+nav_exclude: true
 ---
 
 # Receptiviti API Overview
