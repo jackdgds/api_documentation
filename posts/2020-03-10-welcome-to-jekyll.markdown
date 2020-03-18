@@ -1,5 +1,6 @@
 ---
 layout: post
+title:  "Welcome to API docs"
 
 ---
-See links at left to navigate the API documentation. 
+See links at left.
