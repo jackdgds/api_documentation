@@ -10,11 +10,11 @@ The Receptiviti API returns a mix of several types of metrics, covered in more d
 
 | Field       | Description        |
 |:-------------|:------------------|
-|Conscientiousness           |Measures the degree to which a person is diligent, careful, and thorough in their work.                         |
-|Openness           |                        |
-|Extraversion           |                        |
-|Agreeableness           |                        |
-|Neuroticism           |                        |
+|Conscientiousness           |The degree to which a person is diligent, careful, and thorough in their work.                         |
+|Openness           |The degree to which a person is open-minded and approachable.                        |
+|Extraversion           |The degree to which a person is extraverted, outgoing, and sociable.                        |
+|Agreeableness           |The degree to which a person is easy to like and be around.                        |
+|Neuroticism           |The degree to which a person is afflicted by intense feelings of anxiety, phobias,                         |
 |Adjustment           |                        |
 |Thinking Style           |                        |
 |Power Driven           |                        |
@@ -24,7 +24,7 @@ The Receptiviti API returns a mix of several types of metrics, covered in more d
 |Happiness           |                        |
 |Persuasive           |                        |
 |Social Skills           |                        |
-|Type A           |                        |
+|Type A           |Measures the degree to which a person is driven and competitive. Individuals with high Type A scores typically have an elevated drive to win and be successful and may display signs that they feel superior to others. They have the capacity to be bullies and will be more likely to display anger and use profanities. High scorers in this metric are usually highly career focused.                         |
 |Depression           |                        |
 |Workhorse           |                        |
 |Family Oriented           |                        |
