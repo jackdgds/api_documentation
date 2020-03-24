@@ -10,7 +10,7 @@ The Receptiviti API returns a mix of several types of metrics, covered in more d
 
 | Field       | Description        |
 |:-------------|:------------------|
-|Conscientiousness           |                        |
+|Conscientiousness           |Measures the degree to which a person is diligent, careful, and thorough in their work.                         |
 |Openness           |                        |
 |Extraversion           |                        |
 |Agreeableness           |                        |
