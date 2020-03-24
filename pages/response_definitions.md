@@ -10,25 +10,25 @@ The Receptiviti API returns a mix of several types of metrics, covered in more d
 
 | Field       | Description        |
 |:-------------|:------------------|
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
-|           |                        |
+|Conscientiousness           |                        |
+|Openness           |                        |
+|Extraversion           |                        |
+|Agreeableness           |                        |
+|Neuroticism           |                        |
+|Adjustment           |                        |
+|Thinking Style           |                        |
+|Power Driven           |                        |
+|Independent           |                        |
+|Cold           |                        |
+|Insecure           |                        |
+|Happiness           |                        |
+|Persuasive           |                        |
+|Social Skills           |                        |
+|Type A           |                        |
+|Depression           |                        |
+|Workhorse           |                        |
+|Family Oriented           |                        |
+|Reward Bias           |                        |
 |           |                        |
 |           |                        |
 |           |                        |

@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: Receptiviti API Endpoints
-nav_order: 11
+nav_order: 12
 ---
 
 # Receptiviti API Endpoints
