@@ -10,11 +10,11 @@ The Receptiviti API returns a mix of several types of metrics, covered in more d
 
 | Field       | Description        |
 |:-------------|:------------------|
-|**Conscientiousness**           |The degree to which a person is diligent, careful, and thorough in their work.                         |
-|**Openness**           |The degree to which a person is open-minded and approachable.                        |
-|**Extraversion**           |The degree to which a person is extraverted, outgoing, and sociable.                        |
-|**Agreeableness**           |The degree to which a person is easy to like and be around.                        |
-|**Neuroticism**           |The degree to which a person is afflicted by intense feelings of chronic anxiety, phobias, depression, and obsessive-compulsiveness.                         |
+|**Conscientiousness**           |The degree to which a person is reliable, diligent, careful, and thorough.|
+|**Openness**           |The degree to which a person is open-minded and approachable, and enjoys new ideas and new experiences.                    |
+|**Extraversion**           |The degree to which a person feels energized and uplifted when interacting with others or engaging in activities.                         |
+|**Agreeableness**           |The degree to which a person is inclined to please others.                |
+|**Neuroticism**           |The degree to which a person is afflicted by intense feelings of chronic anxiety, phobias, depression, and obsessive-compulsiveness. Individuals with high Neuroticism scores typically express strong negative emotions.                        |
 |**Adjustment**           |The degree to which a person is grounded, is able to maintain quality relationships with others, and establishes healthy life goals. Individuals with high Adjustment scores typically live balanced lives that include a positive outlook on their careers, a focus on family life, and regular leisure activities. They tend to be sociable and approachable and will often be rewarded for commitment to their work.                         |
 |**Thinking Style**           |Measures the ways people communicate and how they organize the topics and ideas they’re discussing. While some people gravitate toward a flexible, dynamic narrative flow to move from one concept to the next, others gravitate toward a more structured, analytical approach in which concepts are organized categorically.                         |
 |**Power-driven**           |Measures the degree to which a person is driven by the desire for power. Individuals with high Power-driven scores are keenly attuned to power structures, regardless of where they sit in the hierarchy. For these individuals, it may be important to be seen as a leader.                         |
