@@ -98,11 +98,11 @@ NOTE:_This page is intended for ad-hoc analysis. ~~Any data entered and results 
 {: .label .label-yellow }
 
 You will see below the pasted text sample a section that contains the API response formatted in a series of boxes, including:
--**Receptiviti Scores:** The percentiles of each metric;
--**Snapshot:** An overview of the personality type of the person who spoke or wrote the text sample;
--**Communication Recommendation:** Advice on how to approach and communicate with the person;
--**Thinking Style:** A scale indicating where the person’s thinking style lies between being an emotion-based decision maker and an analytical decision maker; and
--**Authenticity Detector:** A scale indicating where the person lies between being likely inauthentic versus being likely authentic in their speaking or writing.
+* **Receptiviti Scores:** The percentiles of each metric;
+* **Snapshot:** An overview of the personality type of the person who spoke or wrote the text sample;
+* **Communication Recommendation:** Advice on how to approach and communicate with the person;
+* **Thinking Style:** A scale indicating where the person’s thinking style lies between being an emotion-based decision maker and an analytical decision maker; and
+* **Authenticity Detector:** A scale indicating where the person lies between being likely inauthentic versus being likely authentic in their speaking or writing.
 
 ![image-title-here](https://lh4.googleusercontent.com/mZm3ZC8sjQPrAxpZWD8QPlPivNpNqh-2Robw4vnMg1K2Er8gxhxujq4199VIDewOBpDYiDz4QmRxGqTcaqPn6JMYvRxIbspU-cnqSerdINixDElpyGejaz0x-mvS5A){:class="img-responsive"}
 
