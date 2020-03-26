@@ -91,11 +91,20 @@ The only mandatory fields are `language`, `content_date`, and `language_content`
 3. From the **Content Source** drop-down menu, select the applicable source of your text sample.
 4. Click **Analyze**.
 
-    ![image-title-here](https://lh6.googleusercontent.com/9WUwFSH9U-WTUPyGsvGy1DfJttPDNZ4Qw8hZoQ1ILhOBP25UljGJZpknFiwzyfT60KeG9ETuKZwOHIfnKsAxOBwIZElfaGpFhgrd3rxS){:class="img-responsive"}
+    ![image-title-here](https://lh5.googleusercontent.com/0msDZjyou6pXfEIazyrtBxKwjfN0kUEH6iByfEEe4iQ9cAeCaZeNXmeWkwQLFV6YfXUcqkiXQtFFM02_XX0x1nj9Y7YOZuzvv7iK0scKxWvZAhZn_sU5dy57b2BJrQ){:class="img-responsive"}
 
 
-NOTE:_This page is intended for ad-hoc analysis. Any data entered and results generated on this page are not stored, and are not retrievable once you leave this page._
+NOTE:_This page is intended for ad-hoc analysis. ~~Any data entered and results generated on this page are not stored, and are not retrievable once you leave this page.~~_
 {: .label .label-yellow }
+
+You will see below the pasted text sample a section that contains the API response formatted in a series of boxes, including:
+-**Receptiviti Scores:** The percentiles of each metric;
+-**Snapshot:** An overview of the personality type of the person who spoke or wrote the text sample;
+-**Communication Recommendation:** Advice on how to approach and communicate with the person;
+-**Thinking Style:** A scale indicating where the person’s thinking style lies between being an emotion-based decision maker and an analytical decision maker; and
+-**Authenticity Detector:** A scale indicating where the person lies between being likely inauthentic versus being likely authentic in their speaking or writing.
+
+![image-title-here](https://lh4.googleusercontent.com/mZm3ZC8sjQPrAxpZWD8QPlPivNpNqh-2Robw4vnMg1K2Er8gxhxujq4199VIDewOBpDYiDz4QmRxGqTcaqPn6JMYvRxIbspU-cnqSerdINixDElpyGejaz0x-mvS5A){:class="img-responsive"}
 
 <br>
 <br>
