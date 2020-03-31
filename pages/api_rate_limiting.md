@@ -6,6 +6,4 @@ nav_order: 7
 
 # API Rate Limiting
 
-Once your account is authenticated, you will be able to make 10,000 calls to the Receptiviti API. Authenticated requests are associated with the authenticated user.
-
-If you prefer to start with a free trial, you will have access to the full 10,000 calls for the first two weeks. If you wish to continue, you will enter our license agreement and the will then have the remainder of your unused calls for the rest of the month until the threshold rolls over for the next month.
+You may be given a trial license which lasts for one month and includes 50 calls to the Receptiviti API. Or, if you purchase a license, you will be entitled to a fixed maximum of calls per month (1000, 10,000, 50,000, etc). If you exhaust your limit for a given month, you will have to wait until the reset date to get your next set of calls.

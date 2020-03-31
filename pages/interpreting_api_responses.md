@@ -14,7 +14,6 @@ The Receptiviti API returns results based on four separate analyses:
 
 3. Raw scores (5-point scale based that utilizes a logarithmic distribution of results)
 
-4. ~~LSM assessments~~
 
 Based on the results, the algorithm generates a series of three personality snapshots, each comprised of two sentences that describe a personality type of a person whose language sample was analyzed, along with a one- to two-word summary, such as ‘Analytical thinker,’ ‘Persuasive,’ or ‘Easy-going.’ These snapshots follow the list of scores. See the list of metrics and scores here.
 

@@ -107,7 +107,7 @@ You will see below the pasted text sample a section that contains the API respon
 
 <br>
 <br>
-### Using Python to call the API
+[//]: # ### Using Python to call the API
 
 The following is a basic code sample in Python to help you get started with the Receptiviti API:
 
