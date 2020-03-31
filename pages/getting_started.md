@@ -23,7 +23,7 @@ Once we set up your account, you will receive an email with a link to the web in
 
 **There are several ways to interact with the Receptiviti API:**
 
-- **Command line:** By using cURL, you can make API calls and get minified JSON results. (You can use a service like <https://pretty-print-json.js.org/> to make it more readable.) See sample code and responses here and here.
+- **Command line:** By using cURL, you can make API calls and get minified JSON results. (You can use a service like <https://pretty-print-json.js.org/> to make it more readable.) See sample code and responses [here](example_api_call) and [here](example_api_response).
 
 - **Receptiviti Open API/Swagger page:** Here, you can post samples and get results in JSON, as well as have your calls converted to cURL format for copy-and-pasting to the command line, if you wish to do so. Access this here.
 
