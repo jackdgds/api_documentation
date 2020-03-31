@@ -22,11 +22,10 @@ The model below indicates the parameters that are passed on the API call. The as
 | `language_content`* |String  | This is the actual content of the text sample(s) you provide to the API.  |
 | `content_tags` | String | If using, list your tags here. (Default: [])  |
 | `content_handle` | String   | A reference ID for the content.<br> This is stored and returned on subsequent GET calls.  |
-| `language` |  String     | This specifies the language of the content. Currently, The supported languages are English, Spanish, Dutch, French, and German.|
-| `content_source`* |Integer| This is the source of the material of the text sample being provided. <br>1=Personal Writing<br>2=Personal Email Correspondence<br>3=Professional Correspondence<br>4=Social Media<br>5=Commercial Writing<br>6=Professional or Scientific Writing<br>0=Other<br>Default: 0 |
+| `language` |  String     | This specifies the language of the content. Currently, the supported languages are English, Spanish, Dutch, French, and German.|
+| `content_source`* |Integer| This is the source of the material of the text sample being provided. <br>1=Personal Writing<br>2=Personal Email Correspondence<br>3=Professional Correspondence<br>4=Social Media<br>5=Commercial Writing<br>6=Professional or Scientific Writing<br>0=Other<br>(Default: 0) |
 | `content_date`* |String  | This specifies the date of the content.<br> The default will be the date the call is made.<br> Format: YYYY-MM-DDT00:00:00.00000  |
 | `recipient_id` |String  |If the writing sample was a conversation with another<br> person who has been created in the system, provide the recipient_ID for that person.    |
-| `language_content`* |String  | This is the actual content of the text sample(s) you provide to the API.  |
 
 <br>
 <br>
@@ -98,10 +97,10 @@ NOTE:_This page is intended for ad-hoc analysis. ~~Any data entered and results 
 {: .label .label-yellow }
 
 You will see below the pasted text sample a section that contains the API response formatted in a series of boxes, including:
-* **Receptiviti Scores:** The percentiles of each metric;
-* **Snapshot:** An overview of the personality type of the person who spoke or wrote the text sample;
-* **Communication Recommendation:** Advice on how to approach and communicate with the person;
-* **Thinking Style:** A scale indicating where the person’s thinking style lies between being an emotion-based decision maker and an analytical decision maker; and
+* **Receptiviti Scores:** The percentiles of each metric.
+* **Snapshot:** An overview of the personality type of the person who spoke or wrote the text sample.
+* **Communication Recommendation:** Advice on how to approach and communicate with the person.
+* **Thinking Style:** A scale indicating where the person’s thinking style lies between being an emotion-based decision maker and an analytical decision maker.
 * **Authenticity Detector:** A scale indicating where the person lies between being likely inauthentic versus being likely authentic in their speaking or writing.
 
 ![image-title-here](https://lh4.googleusercontent.com/mZm3ZC8sjQPrAxpZWD8QPlPivNpNqh-2Robw4vnMg1K2Er8gxhxujq4199VIDewOBpDYiDz4QmRxGqTcaqPn6JMYvRxIbspU-cnqSerdINixDElpyGejaz0x-mvS5A){:class="img-responsive"}

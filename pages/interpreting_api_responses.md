@@ -8,13 +8,13 @@ nav_order: 8
 
 The Receptiviti API returns results based on four separate analyses:
 
-1. LIWC scores (0-100);
+1. LIWC scores (0-100)
 
-2. Receptiviti scores (0-100);
+2. Receptiviti scores (0-100)
 
-3. Raw scores (5-point scale based that utilizes a logarithmic distribution of results);
+3. Raw scores (5-point scale based that utilizes a logarithmic distribution of results)
 
-4. ~~LSM assessments~~.
+4. ~~LSM assessments~~
 
 Based on the results, the algorithm generates a series of three personality snapshots, each comprised of two sentences that describe a personality type of a person whose language sample was analyzed, along with a one- to two-word summary, such as ‘Analytical thinker,’ ‘Persuasive,’ or ‘Easy-going.’ These snapshots follow the list of scores. See the list of metrics and scores here.
 
@@ -25,9 +25,9 @@ Following a personality snapshots, there are two aggregated scores referred to a
 - **Emotional Analysis:** Each Emotional Analysis facet score (anger, fear, sad) indicates how the percentage of the total negative emotion expressed in the language sample corresponds with each primary negative emotion.
 
 
-NOTE: _At this time, the Receptiviti API only accepts English language samples_
+~~NOTE: _At this time, the Receptiviti API only accepts English language samples_~~
 {: .label .label-yellow }
-.
+
 
 We group Receptiviti scores into the five types of psychological insights they represent:
 
