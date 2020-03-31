@@ -25,10 +25,9 @@ Once we set up your account, you will receive an email with a link to the web in
 
 - **Command line:** By using cURL, you can make API calls and get minified JSON results. (You can use a service like <https://pretty-print-json.js.org/> to make it more readable.) See sample code and responses [here](example_api_call) and [here](example_api_response).
 
-- **Receptiviti Open API/Swagger page:** Here, you can post samples and get results in JSON, as well as have your calls converted to cURL format for copy-and-pasting to the command line, if you wish to do so. Access this here.
+- **Receptiviti Open API/Swagger page:** Here, you can post samples and get results in JSON, as well as have your calls converted to cURL format for copy-and-pasting to the command line, if you wish to do so. Access this page [here](https://api-v3.receptiviti.com/v3/api/spec).
 
-- **Web application:** We provide a user interface where you can upload language samples and get results. This is a simple way to get quick results, but it is not designed for large-scale analysis projects. Access the UI here.
-Your programming language of choice: This will be the method of choice for data scientists, machine learning modellers, statisticians, and other users with experience using APIs.
+- **Web application:** We provide a user interface where you can upload language samples and get results. This is a simple way to get quick results, but it is not designed for large-scale analysis projects. Access the UI [here](https://api-v3.receptiviti.com/#/try/analyze_content).
 
 -  **Your programming language of choice:** This will be the method of choice for data scientists, machine learning modellers, statisticians, and other users with experience using APIs.
 
