@@ -4,6 +4,31 @@ title:  "Making a Call to the Receptiviti API"
 nav_order: 5
 has_children: true
 has_toc: false
+
+# This section is to be updated when Swagger to HTML interactivity is implemented and can be placed (if using) at the bottom before the final note.
+
+### Using Python to call the API
+
+#The following is a basic code sample in Python to help you get started with the Receptiviti API: _(This section is to be updated when Swagger to HTML interactivity is implemented)_
+
+#```
+#import requests
+
+#def get_liwc_scores(text, api_secret_key, api_key):
+#    text = text.encode('ascii', 'ignore').decode('utf-8')
+#    text_repl = text.replace('"', r'\"')
+#    url = 'https://api-v3.receptiviti.com/v3/api/content'
+#    headers = {'accept': 'application/json', 'X-API-SECRET-KEY': api_secret_key, 'X-API-# # KEY': api_key, 'Content-Type': 'application/json'}
+#    data = "{ \"content_tags\": [ \"string\" ], \"content_handle\": \"string\", #\"language\": \"pa_english\", \"content_source\": 0, \"content_date\": \"2020-01-01\", #\"recipient_id\": \"string\", \"language_content\": \"" + text_repl + "\"}"
+#    r = requests.post(url, data=data, headers=headers)
+#    return r
+
+#    text = “paste your text sample here”
+#    api_secret_key = “paste your api secret key here”
+#    api_key = “paste your api key here”
+#    r = get_liwc_scores(text, api_secret_key, api_key)
+#    r
+#```
 ---
 
 # Making a Call to the Receptiviti API
@@ -107,28 +132,6 @@ You will see below the pasted text sample a section that contains the API respon
 
 <br>
 <br>
-### Using Python to call the API
-
-The following is a basic code sample in Python to help you get started with the Receptiviti API: _(This section is to be updated when Swagger to HTML interactivity is implemented)_
-
-```
-import requests
-
-def get_liwc_scores(text, api_secret_key, api_key):
-    text = text.encode('ascii', 'ignore').decode('utf-8')
-    text_repl = text.replace('"', r'\"')
-    url = 'https://api-v3.receptiviti.com/v3/api/content'
-    headers = {'accept': 'application/json', 'X-API-SECRET-KEY': api_secret_key, 'X-API-KEY': api_key, 'Content-Type': 'application/json'}
-    data = "{ \"content_tags\": [ \"string\" ], \"content_handle\": \"string\", \"language\": \"pa_english\", \"content_source\": 0, \"content_date\": \"2020-01-01\", \"recipient_id\": \"string\", \"language_content\": \"" + text_repl + "\"}"
-    r = requests.post(url, data=data, headers=headers)
-    return r
-
-    text = “paste your text sample here”
-    api_secret_key = “paste your api secret key here”
-    api_key = “paste your api key here”
-    r = get_liwc_scores(text, api_secret_key, api_key)
-    r
-```
 
 NOTE: _We strongly advise against merging text from multiple sources into one post (e.g., Twitter, Facebook, transcripts, etc.). If you plan to analyze content from multiple sources, we recommend creating a separate Person ID for each type of content. For example, to analyze Person A's Twitter and Facebook samples, create one Person_A_Twitter person_ID to which only Person A's Twitter samples are sent, and one Person_A_Facebook person_ID to which only Person A's Facebook samples are sent._
 {: .label .label-yellow }
