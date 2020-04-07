@@ -28,7 +28,7 @@ url: "https://github.com/jackdgds/api_documentation" # the base hostname & proto
 #github_username:  jekyll
 remote_theme: pmarsceill/just-the-docs
 # Build settings
-#theme: just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
