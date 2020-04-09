@@ -8,7 +8,7 @@ has_toc: false
 
 # Introduction to APIs
 
-API stands for _Application Programming Interface_.
+API stands for Application Programming Interface.
 
 An API acts as an interface between two systems, allowing users to integrate web technology like features, data, and content from other web services in their own applications.
 
