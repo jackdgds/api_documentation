@@ -13,7 +13,7 @@ Welcome to the Receptiviti API Documentation
 This site will walk you through the steps required to use our API whether you're totally new to APIs or you're an API expert.
 {: .fs-6 .fw-300 }
 
-[Get started now](https://crispy-silence.cloudvent.net/pages/getting_started.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started now](https://jackdgds.github.io/api_documentation/pages/getting_started.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
@@ -22,7 +22,6 @@ This site will walk you through the steps required to use our API whether you're
 Our API allows you to upload and analyze text samples from spoken and written language, or to submit and timestamp multiple writing samples from a person or from multiple people. The API will return a series of scores that have been analyzed through LIWC and the Receptiviti engine (for information on these scores, see Receptiviti Metrics Explained).
 
 By engaging with the Receptiviti API, you can gain immensely valuable insight into the emotional state of individuals or groups of people at the time the language was spoken or written, allowing you to better understand how the communication within your company affects the entire organization. Examining the use of language over time provides insights beyond the psychological profile to better understand how people are thinking in the moment, and how they are likely to behave.
-
 
 Based on REST principles, the Receptiviti API endpoints return JSON-formatted data analyzed from text samples.
 
