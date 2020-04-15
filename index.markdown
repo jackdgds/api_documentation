@@ -23,7 +23,11 @@ Our API allows you to upload and analyze text samples, or to submit and timestam
 
 By engaging with the Receptiviti API, you can gain immensely valuable insight into the emotional state of individuals or groups of people at the time the language was spoken or written, allowing you to better understand how the communication affects entire organizations. Examining the use of language over time provides deep insights into the psychological profile to better understand how people are thinking in the moment, and how they are likely to behave. The API is accessible programmatically for large-scale usage as well as via a web interface.
 
+<<<<<<< HEAD
 Receptiviti’s REST-ful API endpoints return JSON-formatted data.
+=======
+Based on REST principles, the Receptiviti API endpoints return JSON-formatted data analyzed from text samples.
+>>>>>>> ea3d069007c915655386c25cf7c5c26bd18c202a
 
 Navigate the documentation through the pages to the left of the page.
 
