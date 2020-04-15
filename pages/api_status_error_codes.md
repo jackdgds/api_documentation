@@ -10,7 +10,7 @@ The Receptiviti API returns HTTP status codes as well as JSON-based error codes 
 
 | Code       | Description        |
 |:-------------|:------------------|
-| 200          | |OK - The request was received, understood, and is being processed. |
+| 200          | OK - The request was received, understood, and is being processed. |
 | 201 | Created — this is a successful API call.|
 | 400          |Bad request — there is something wrong or missing in the formatting of the API call.|
 | 401          |Unauthorized — something is missing or inaccurate in the credentials.|
