@@ -3,6 +3,9 @@ layout: page
 title:  "API Terminology"
 nav_order: 1
 parent: Introduction to APIs
+
+# This may be re-inserted at some point based on business decisions:
+#**LSM:** Acronym for Language Style Matching. LSM is based on research by James W. #Pennebaker that analyzes the relationship between rapport and the degree to which people #show similar rates of function word use when they communicate with each other. Identifying #the commonalities and differences in their relative use of function words is key to #understanding the degree to which the two people are in sync.
 ---
 # API Terminology
 
@@ -40,8 +43,6 @@ When you make a call to an API, data are returned in JSON format, which looks li
 
 **Endpoint:** A type of URL that expresses the path of a resource to be returned from an API call, indicating how you access the resource.
 
-**LIWC:** Acronym for Linguistic Inquiry Word Count. A framework developed by social psychologist Dr. James Pennebaker and his team that utilizes a dictionary comprised of a growing number of categories, each containing words that indicate particular psychological states. We use LIWC categories in the Receptiviti API.
-
-**LSM:** Acronym for Language Style Matching. LSM is based on research by James W. Pennebaker that analyzes the relationship between rapport and the degree to which people show similar rates of function word use when they communicate with each other. Identifying the commonalities and differences in their relative use of function words is key to understanding the degree to which the two people are in sync.
+**LIWC:** Acronym for Linguistic Inquiry Word Count. A framework we employ that utilizes a dictionary comprised of a growing number of categories, each containing words that indicate particular psychological states. We use LIWC categories in the Receptiviti API.
 
 **OpenAPI/Swagger:** Open API, formerly known as Swagger, is a tool that allows you to build the structure of your API so that it is machine-readable, and allows you to generate interactive documentation based on the specification sheet that’s created when building the API. Read more here.

@@ -2,6 +2,10 @@
 layout: "page"
 title: Interpreting API Responses
 nav_order: 8
+
+#removed for now:
+# ~~NOTE: _At this time, the Receptiviti API only accepts English language samples_~~
+# {: .label .label-yellow }
 ---
 
 # Interpreting API Responses
@@ -22,10 +26,6 @@ Following a personality snapshots, there are two aggregated scores referred to a
 - **Emotional Tone** Scores range from Negative (1) to Positive (99). A score around 50 is considered neutral and suggests either a lack of emotionality or similar amounts of positive and negative emotions.
 
 - **Emotional Analysis:** Each Emotional Analysis facet score (anger, fear, sad) indicates how the percentage of the total negative emotion expressed in the language sample corresponds with each primary negative emotion.
-
-
-~~NOTE: _At this time, the Receptiviti API only accepts English language samples_~~
-{: .label .label-yellow }
 
 
 We group Receptiviti scores into the five types of psychological insights they represent:
