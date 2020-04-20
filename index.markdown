@@ -19,11 +19,11 @@ This site will walk you through the steps required to use our API whether you're
 
 # Receptiviti API Overview
 
-Our API allows you to upload and analyze text samples, or to submit and timestamp multiple writing samples from a person or from multiple people. Businesses can directly connect their internal systems and applications to the Receptiviti API, and it will return a series of scores that have been analyzed through LIWC and the Receptiviti Natural Language Understanding Platform. _(would be good to link here to documentation on scores and metrics)_
+Our API allows you to upload and analyze text samples, or to submit and timestamp multiple writing samples from a person or from multiple people. Businesses can directly connect their internal systems and applications to the Receptiviti API, and it will return a series of scores that have been analyzed through LIWC and the Receptiviti Natural Language Understanding Platform. 
 
 By engaging with the Receptiviti API, you can gain immensely valuable insight into the emotional state of individuals or groups of people at the time the language was spoken or written, allowing you to better understand how the communication affects entire organizations. Examining the use of language over time provides deep insights into the psychological profile to better understand how people are thinking in the moment, and how they are likely to behave. The API is accessible programmatically for large-scale usage as well as via a web interface.
 
-Receptiviti’s REST-ful API endpoints return JSON-formatted data. 
+Receptiviti’s REST-ful API endpoints return JSON-formatted data.
 
 Navigate the documentation through the pages to the left of the page.
 
